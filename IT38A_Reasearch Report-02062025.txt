@@ -110,3 +110,7 @@
             proper employee training through change management programs and sufficient budget and time investment for skilled project personnel.
             
             e.3. Future Research Opportunities
+
+            References: 
+              case 1: https://aws.amazon.com/solutions/case-studies/kfc-ph
+              case 2: https://www.henricodolfing.com/2022/10/case-study-nike-i2-supply-chain-management.html
