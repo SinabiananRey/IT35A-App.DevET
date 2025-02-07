@@ -22,11 +22,8 @@
           b.3. Key success factors
 
           Cloud Based: The data system migration to the AWS Cloud gave the company simpler access to their collected information.
-
           Dashboard: Staff used Amazon Forecast to forecast how different menu items would be demanded allowing better operational management.
-          
           Low cost: Ramcar obtained a cost reduction of 25% after moving to the cloud so they opened new stores with the savings.
-          
           Real-time: Faster data access enables the company to handle changes in customer demands and store operations in a more efficient manner.
           
           b.4. outcomes & impact
@@ -76,3 +73,40 @@
             The reputational damage at Nike and i2 Technologies led to a 22% decline in stock value and Moreover the vendor lost its credibility in the market. 
             To handle software defects Nike implemented time-consuming manual processes which required manual weekly entry of demand forecast information.
 
+            d.1. Similarities & Differences
+
+            THE TABLES ARE ALSO UPLOADED.
+
+            d.2. Critical Success vs. Failure Factors
+
+            THE TABLES ARE ALSO UPLOADED.
+
+            d.3. Key Takeaways & Lessons Learned include the following questions:
+            1. What did the successful case do right?
+
+            This successful KFC PH execution used a step-by-step strategy to control risks while working with experts at InfoAlchemy and AWS then 
+            prioritized cost efficiency and operation performance and utilized current data for informed decisions.
+            
+            2. What went wrong in the failed case?
+
+            NIKE case led to software customization that exceeded recommended parameters while also failing to address data quality which generated system failures 
+            and skipped necessary testing phases and neglected effective communication between Nike and its vendor i2 Technologies.
+
+            3. How can future implementations avoid similar failures?
+
+            Learn from KFC, they move clever unlike NIKE, too greedy.
+
+            e. Insights & recommendations
+        
+            e.1. Best Practices for Successful Enterprise System Implementation
+
+            The implementation of an organized step-by-step deployment strategy alongside data quality improvement through legacy data cleaning as well as teaming up with system experts 
+            and delivering detailed staff training and using flexible cloud-based technologies help businesses achieve success.
+            
+            e.2. Strategies to Avoid Failure
+
+            Organizations experience less failure when they follow vendor-designated customization boundary limits 
+            while testing extensively before deployment as well as implementing proper communication systems between stakeholders and vendors and 
+            proper employee training through change management programs and sufficient budget and time investment for skilled project personnel.
+            
+            e.3. Future Research Opportunities
