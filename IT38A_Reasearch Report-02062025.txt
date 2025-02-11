@@ -1,0 +1,116 @@
+          
+          Comparative Analysis of Successful and Failed Enterprise System Implementations
+          
+          Case Study 1: Successful Enterprise System Implementation
+
+          b.1. Company Overview
+
+          KFC Philippines are managed by Ramcar Group of Companies through their 329 outlets. 
+          Ramcar Group of Companies operates Tokyo Tokyo and Mr. Donut in addition to KFC in the Philippine market. 
+          Ramcar established a modern data system because they wanted to compete and enhance their operations. 
+          The organization sought to leverage data operations for making intelligent business decisions that would span from inventory management to customer behavior analysis. 
+          The implemented system targeted both enhanced decision capabilities and fresh inventory control and new store site planning.
+          
+          b.2. implementation process
+
+          Ramcar collaborated with InfoAlchemy to implement the new data system of their clients on AWS infrastructure. Amazon S3 delivered storage solutions and Amazon Redshift provided data warehouse services in their solution. 
+          Before the change KFC used on-premises data collection from their stores yet shifted to cloud storage systems for better operational efficiency. 
+          The first goal of their process was to automate inventory ordering to maintain the right amount of stock without creating unnecessary inventory. 
+          The company later implemented Amazon Forecast for item demand prediction through its platform. 
+          The tool assists businesses to optimize how they distribute their assets through the production preparations and materials management stages.
+     
+          b.3. Key success factors
+
+          Cloud Based: The data system migration to the AWS Cloud gave the company simpler access to their collected information.
+          Dashboard: Staff used Amazon Forecast to forecast how different menu items would be demanded allowing better operational management.
+          Low cost: Ramcar obtained a cost reduction of 25% after moving to the cloud so they opened new stores with the savings.
+          Real-time: Faster data access enables the company to handle changes in customer demands and store operations in a more efficient manner.
+          
+          b.4. outcomes & impact
+
+          Through its new data system, Ramcar Group improved inventory management through real-time stock tracking which led to reduced waste and correct inventory levels at all stores. 
+          The new system accurately forecasted customer demand enabling Ramcar Group to conduct operations with greater intelligence also decreasing stockout incidents and waiting times for improved customer satisfaction.
+          Strategic growth opportunities became more evident because Ramcar accessed customer data which helped them identify suitable locations for new store openings. 
+          The financial benefits obtained through cloud migration enabled the company to establish new stores alongside supporting franchise operations.
+          The company intends to extend the system to Tokyo Tokyo establishments during its future development initiatives while it strives to unify operational processes between its divisions to enhance both efficiency and continuing growth.
+
+
+          case study 2: Failed Enterprise System Implementation
+
+            c.1. company overview (Reason for implementing the enterprise system)
+
+            During the 1990s Nike reached unbelievable business growth because it maintained its position as one of the world's top athletic footwear and apparel brands. 
+            The fast-paced company growth in the 1990s revealed critical limits within its supply chain network. 
+            Nike operated a fragmented system with 27 different order management systems across the world which worked independently without seamless connection to headquarters in Beaverton Oregon. 
+            Nike experienced various operational problems because of its fractured order management system which led to a 9-month product cycle and inconsistent demand and supply management.
+
+            The Nike Supply Chain (NSC) project became reality when Nike initiated it in 1999 with the purpose to solve these problems. 
+            The central project aimed to modernize supply chain operations by implementing i2 Technologies’ SCM software and SAP ERP software and Siebel Systems CRM software. 
+            Nike pursued a project to decrease product cycles while enhancing prediction accuracy as part of its goal to establish make to order production methods that would keep the company ahead of competition from Adidas and Reebok.
+     
+            c.2. implementation process & challenges
+
+            The initial phase of the NSC project required deployment of i2 Technologies’ SCM software ecosystem. 
+            Nike decided to implement the "Big Bang" method where the entire previous system received a sudden complete replacement. 
+            A rapid adoption of this strategy led to multiple obstructions appearing as problems during implementation:
+
+            1. Nike made a mistake by underestimating the challenging nature of combining its new system with various segregated legacy systems. Because of the diverse product number database SCM software needed to manage more than 100 million product numbers across diverse formats that applied various business rules.
+            2. i2 suggested restricting software customization to between 10 to 15 percentages but Nike chose to exceed this recommendation leading to slow performance and system crashes. By going beyond the prescribed software customization limit Nike compromised software speed and system stability.
+            3. The SCM software experienced errors because poor data quality came from Nike's legacy system. The system often mistook factory order removals for duplications which led to excessive manufacturing of unwanted items together with lacking production of popular products Air Jordans.
+            4. The communication between Nike and i2 lack during this project. The disagreement between Nike and i2 centered on whether the system was operational or if a timely warning about system errors had been provided.
+            5. Lack of proper education among Nike's internal team required expensive consultants to develop temporary manual solutions because they lacked proficiency with the new system.
+
+            c.3. Key failure factors
+
+            1. The integration of new systems became challenging because Nike did not properly look for both the size of the project and the complications involved in merging new software with non-organized existing data.
+            2.Nike and i2 failed to collaborate efficiently for addressing software limitations which hindered their ability to solve problems early in implementation.
+            3. Due to its desire to maintain competitive advantages Nike accelerated its system implementation without proper testing which caused inadequate preparation.
+
+            c.4. outcomes & consequences
+
+            Nike lost $100 million in sales because their supply chain management system resulted in excessive production of unpopular Air Garnett III models relative to the shortage of high-demand Air Jordans. 
+            Due to supply chain problems Nike experienced stock market declines exceeding 20% when they reported quarterly revenue dropped by 28%. 
+            The reputational damage at Nike and i2 Technologies led to a 22% decline in stock value and Moreover the vendor lost its credibility in the market. 
+            To handle software defects Nike implemented time-consuming manual processes which required manual weekly entry of demand forecast information.
+
+            d.1. Similarities & Differences
+
+            THE TABLE IS ALSO UPLOADED INSIDE THE BRANCH.
+
+            d.2. Critical Success vs. Failure Factors
+
+            THE TABLE IS ALSO UPLOADED INSIDE THE BRANCH.
+
+            d.3. Key Takeaways & Lessons Learned include the following questions:
+            1. What did the successful case do right?
+
+            This successful KFC PH execution used a step-by-step strategy to control risks while working with experts at InfoAlchemy and AWS then 
+            prioritized cost efficiency and operation performance and utilized current data for informed decisions.
+            
+            2. What went wrong in the failed case?
+
+            NIKE case led to software customization that exceeded recommended parameters while also failing to address data quality which generated system failures 
+            and skipped necessary testing phases and neglected effective communication between Nike and its vendor i2 Technologies.
+
+            3. How can future implementations avoid similar failures?
+
+            Learn from KFC, they move clever unlike NIKE, too greedy.
+
+            e. Insights & recommendations
+        
+            e.1. Best Practices for Successful Enterprise System Implementation
+
+            The implementation of an organized step-by-step deployment strategy alongside data quality improvement through legacy data cleaning as well as teaming up with system experts 
+            and delivering detailed staff training and using flexible cloud-based technologies help businesses achieve success.
+            
+            e.2. Strategies to Avoid Failure
+
+            Organizations experience less failure when they follow vendor-designated customization boundary limits 
+            while testing extensively before deployment as well as implementing proper communication systems between stakeholders and vendors and 
+            proper employee training through change management programs and sufficient budget and time investment for skilled project personnel.
+            
+            e.3. Future Research Opportunities
+
+            References: 
+              case 1: https://aws.amazon.com/solutions/case-studies/kfc-ph
+              case 2: https://www.henricodolfing.com/2022/10/case-study-nike-i2-supply-chain-management.html
