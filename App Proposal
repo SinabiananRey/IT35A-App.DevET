@@ -1,26 +1,24 @@
 WeSwap
 
-Objectives:
-Through its WeSwap app the platform stimulates waste reduction by allowing people to give away or reuse items without purchasing new products.
-Through its circular economy approach the app lowers environmental emissions from the manufacturing process along with shipping activities and landfill disposal of waste. 
-WeSwap builds systems to foster eco-friendly actions amongst people in Manolo Fortich through programs that enhance sustainability availability and encourage participation.
+OVERVIEW:
+The web platform WeSwap operates as a tool to minimize waste and enhance sustainability in Manolo Fortich. 
+Through its item reuse and exchange feature the app develops environmentally friendly practices which lengthens product life cycles as well as deepens community dedication to sustainable purchasing.
+
+OBJECTIVES:
+-Users can minimize waste through an interface that allows them to give away or swap unwanted items.
+-The system makes sustainable lifestyle promotion accessible through its straightforward platform.
+-Developing a greener connected community throughout the area of Manolo Fortich.
 
 SDGs Targeted: 
 Goal 13 Climate action: Through its features the app operates as a climate action solution by lowering industrials pollution levels while reducing demand for products and helping users adopt environment-friendly habits.
 Goal 12 Responsible consumption and production: Through its support of item reuse and upcycling the platform promotes responsible consumer practices that diminish waste output.
 Goal 11 Sustainable cities and communities: Local meetup spaces and drop-off zones found within the app help develop community-driven sustainability projects to make Manolo Fortich more environmentally conscious.
-Goal 17 Partnerships for the goals: The app functions with NGOs and eco-friendly businesses and local government programs through Partnerships for the Goals initiatives to support expanded sustainability outcomes and integrative sustainable practices.
-
 
 Features:
-1. Users on this platform utilize their unused items to trade swaps and donate to both charitable non-profits and local organizations.
-2. The platform helps decrease product waste and maintains product lifecycles.
-3. The platform calculates estimated carbon reductions from swapping products or giving them to charity instead of making new purchases.
-4. Users learn about their environmental impact while the system promotes them toward sustainable lifestyle choices.
-5. Users can safely organize meetings for exchange transactions and donation drop-offs.
-6. Users can browse through products composed of recycled materials and sustainable second-hand items and eco-friendly items for sale.
-7. Users can access information about sustainable consumption through this section which also teaches upcycling methods and climate action practices.
-8. The system raises public understanding while helping people keep sustainable actions long term.
+1. Users of the platform have the ability to share items through posts which feature images and brief descriptions for each item.
+2. Customers can locate items through sorting by clothing, electronics and household goods categories.
+3. The platform includes chat features for users to schedule exchanges and safe meetings.
+4. The dashboard displays both reused items count and estimated waste reduction figures.
 
 Technical Architecture link: https://miro.com/app/board/uXjVLmGIroY=/?share_link_id=971795657807
 
